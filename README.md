@@ -2,7 +2,7 @@
 
 ## Comandos Básicos
 
-[Documentação Oficial Git](https://git-scm.com/docs)
+[Documentação Oficial Git](https://git-scm.com/docs/git/pt_BR)
 
 ```bash
 
