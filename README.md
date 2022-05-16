@@ -46,4 +46,18 @@ git pull # Forma simplificada
 
 git clone <'url_do_repositório_remoto'> 
 
+# Criando Tag
+# https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Criando-Tags
+
+git tag -a v1.0 -m "Versão 1.0"
+
+# Lista as Tag
+
+git tag
+
+# Enviar a Tag para host
+
+git push origin v1.0
+
+
 ```
